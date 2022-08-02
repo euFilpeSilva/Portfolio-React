@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
   return(
-    <div>
+    <div className="bg-black">
         <Navbar />
         <Header />
         <Categorias />
